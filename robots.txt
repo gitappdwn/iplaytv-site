@@ -1,0 +1,9 @@
+# Robots.txt for IPLAYTV
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://iplaytv.shop/sitemap.xml
