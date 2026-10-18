@@ -1,27 +1,27 @@
 {
   "name": "IPLAYTV",
   "short_name": "IPLAYTV",
-  "description": "Ultra-Stable 4K IPTV Service with 55,000+ Live Channels & 200,000+ VOD",
+  "description": "Start your free trial of IPLAYTV today – premium 4K IPTV, 55,000+ live channels, live sports and VOD. No contracts, zero buffering.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#08080a",
   "theme_color": "#f97316",
   "icons": [
     {
-      "src": "/assets/favicon.svg",
+      "src": "assets/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
-    },
-    {
-      "src": "/assets/favicon-48x48.png",
-      "sizes": "48x48",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
     }
   ]
 }
